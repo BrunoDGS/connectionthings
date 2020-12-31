@@ -12,6 +12,6 @@ public class Pattern {
     @GetMapping("/ola")
     public String Hello(){
 
-        return "Hello World Uberaba city";
+        return "Hello World";
     }
 }
